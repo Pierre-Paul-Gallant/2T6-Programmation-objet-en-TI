@@ -77,6 +77,13 @@ const config = {
             sidebarId: "tp",
             label: "Travaux Pratiques",
           },
+          {
+            type: "docSidebar",
+            position: "left",
+            sidebarId: "pyrefs",
+            label: "ref python",
+          },
+          
         ],
       },
       footer: {
